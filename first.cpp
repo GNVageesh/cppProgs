@@ -8,7 +8,7 @@ int main()
 
     // escape sequence to goto a new line
     // alternatively << endl can be used to end line
-    cout << "Home sweet \n";
+    cout << "Home sweet";
     cout << "Home";
     return 0;
 }
