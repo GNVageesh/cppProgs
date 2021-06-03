@@ -17,8 +17,14 @@ int main()
     }
 
     // an infinite for loop
-    for (;;)
+    // for (;;)
+    // {
+    //     cout << "Hi" << endl;
+    // }
+
+    // A negative iteration
+    for (int i = 10; i > 0; i--)
     {
-        cout << "Hi" << endl;
+        cout << i << endl;
     }
 }
